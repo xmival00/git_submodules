@@ -1,5 +1,5 @@
 GITUSER=xmival00
-REPOSITORIES=("repo1" "repo2")
+REPOSITORIES=("test_subtree1" "test_subtree2")
 
 for REPO in "${REPOSITORIES[@]}"
 do
